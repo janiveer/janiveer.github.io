@@ -1,2 +1,2 @@
 # janiveer.github.io
-Janiveer
+Janiveer website on GitHub
